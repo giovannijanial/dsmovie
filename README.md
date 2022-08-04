@@ -4,8 +4,11 @@
 ## :hammer_and_wrench: Tecnologies
 - Java
 - Spring Boot
-- Maven
 - Postgress
+- React
+- TypeScript 
+- Jest
+- Bootstrap
 
 ## :fleur_de_lis: Follow me!
 - Instagram: https://www.instagram.com/giovannijanial/
