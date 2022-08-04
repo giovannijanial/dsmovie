@@ -1,5 +1,5 @@
 # DS Movie
-> Application using Java and Spring Boot
+> Application using Java, Spring Boot and React
 
 ## :hammer_and_wrench: Tecnologies
 - Java
